@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<slideshow>
+	<documentinfo>
+		<author>GOOSE SOFTWARE DEVELOPMENT COMPANY LTD</author>
+		<datemodified>25/02/20</datemodified>
+		<version>1.0</version>
+		<totalslides>20</totalslides>
+		<comment>Slideshow presentation "Interactive Learning Application" to aid students to learn complex topics and facts.</comment>
+	</documentinfo>
+	<defaults>
+		<backgroundcolor>Black</backgroundcolor>
+		<font>Arial</font>
+		<fontsize>24</fontsize>
+		<fontcolor>Black</fontcolor>
+		<linecolor>Black</linecolor>
+		<fillcolor>Black</fillcolor>
+		<slidewidth>1280</slidewidth>
+		<slideheight>720</slideheight>
+	</defaults>
+	<slide id='Rockets' duration='10000'>
+		<text font='helvetica' fontsize='15' fontcolor='Black' xpos='0' ypos='4' starttime='1000' endtime='10000'>
+	A <b>rocket</b> (from Italian: rocchetto, lit. 
+	'bobbin')[nb 1][1] is a <i>missile</i>, 
+	spacecraft, aircraft or other vehicle 
+	that obtains thrust from a rocket 
+	engine. Rocket engine exhaust is 
+	formed entirely from propellant carried 
+	within the rocket.[2] Rocket engines 
+	work by action and reaction and push
+	rockets forward simply by expelling 
+	their exhaust in the opposite 
+	direction at high speed, and can 
+	therefore work in the vacuum of space.
+	In fact, rockets work more efficiently 
+	in space than in an atmosphere. 
+	Multistage rockets are capable of 
+	attaining escape velocity from Earth 
+	and therefore can achieve unlimited 
+	maximum altitude. Compared with 
+	airbreathing engines, rockets are 
+	lightweight and powerful and capable 
+	of generating large accelerations. 
+	To control their flight, rockets 
+	rely on momentum, airfoils, auxiliary 
+	reaction engines, gimballed thrust,
+	momentum wheels, deflection of the 
+	exhaust stream, propellant flow, spin,
+	or gravity. Rockets for military and 
+	recreational uses date back to at 
+	least 13th-century China.
+		</text>
+		<line xstart='0' ystart='0' xend='1280' yend='0' linecolor='Black' starttime='100' endtime='10000'></line>
+		<line xstart='1280' ystart='0' xend='1280' yend='680' linecolor='Black' starttime='200' endtime='10000'></line>
+		<line xstart='1280' ystart='680' xend='0' yend='680' linecolor='Black' starttime='300' endtime='10000'></line>
+		<line xstart='0' ystart='680' xend='0' yend='0' linecolor='Black' starttime='400' endtime='10000'></line>
+		<line xstart='400' ystart='0' xend='400' yend='680' linecolor='Black' starttime='500' endtime='10000'></line>
+		<line xstart='880' ystart='0' xend='880' yend='680' linecolor='Black' starttime='600' endtime='10000'></line>
+		<shape type='rectangle' xstart='0' ystart='0' width='400' height='680' fillcolor='Black' starttime='700' endtime='10000'>
+			<shading x1='0' y1='0' color1='Black' x2='100' y2='100' color2='Orange' cyclic='True'></shading>
+		</shape>
+		<shape type='oval' xstart='880' ystart='200' width='400' height='200' fillcolor='pink' starttime='800' endtime='10000'>
+			<shading x1='0' y1='0' color1='Black' x2='100' y2='100' color2='Blue' cyclic='True'></shading>
+		</shape>
+		<shape type='rectangle' xstart='880' ystart='0' width='400' height='680' fillcolor='pink' starttime='900' endtime='10000'>
+		</shape>
+		<shape type='oval' xstart='880' ystart='400' width='400' height='200' fillcolor='blue' starttime='1000' endtime='10000'>
+		</shape>
+		<audio urlname='resources/slide1/audio/audio1.wav' starttime='10' loop='false'></audio>
+		<image urlname='https://cdn.eso.org/images/screen/eso1907a.jpg' xstart='60' ystart='0' width='40' height='40' starttime='1000' endtime='10000'></image>
+		<image urlname='https://cdn.arstechnica.net/wp-content/uploads/2018/07/Rocket-Report-Intro-3-800x450.jpg' xstart='60' ystart='40' width='40' height='40' starttime='1500' endtime='10000'></image>
+		<video urlname='https://youtu.be/OnoNITE-CLc' starttime='1000' loop='false' xstart='90' ystart='90'></video>
+		<model urlname='resources/slide1/models/HST-3DS\hst.3ds' xstart='0' ystart='0' width='33' height='80'></model>
+	</slide>
+	<slide id='Rosetta Stone' duration='10000'>
+		<text font='arial' fontsize='15' fontcolor='black' xpos='0' ypos='0' starttime='100' endtime='10000'>
+	The Rosetta Stone is a granodiorite stele 
+	discovered in 1799 which is inscribed with three
+	versions of a decreebissued in Memphis, 
+	Egypt in 196 BC during the Ptolemaic 
+	dynasty on behalf of King Ptolemy V Epiphanes.
+	The top and middle texts are in
+	Ancient Egyptian using hieroglyphic and 
+	Demotic scripts respectively, while 
+	the bottom is in Ancient Greek. The decree
+	has only minor differences among the three
+	versions, so the Rosetta Stone became key 
+	to deciphering Egyptian hieroglyphs, 
+	thereby opening a window into ancient 
+	Egyptian history.The stone was carved 
+	during the Hellenistic period and is 
+	believed to have originally been displayed 
+	within a temple, possibly at nearby Sais.
+	It was probably moved in late antiquity 
+	or during the Mameluk period, and was 
+	eventually used as building material 
+	in the construction of Fort Julien 
+	near the town of Rashid (Rosetta) in
+	the Nile Delta. It was discovered 
+	there in July 1799 by French soldier
+	Pierre-François Bouchard during the 
+	Napoleonic campaign in Egypt. It 
+	was the first Ancient Egyptian bilingual 
+	text recovered in modern times, and it 
+	aroused widespread public interest with 
+	its potential to decipher this previously 
+	untranslated hieroglyphic script. Lithographic 
+	copies and plaster casts beganbcirculating among
+	European museums and scholars. The British
+	defeated the French and took the stone to
+	London under the Capitulation of Alexandria 
+	in 1801. It has been on public display at 
+	the British Museum almost continuously since 
+	1802 and is the most visited object there.
+		</text>
+		<shape type='rectangle' xstart='10' ystart='5' width='310' height='630' fillcolor='dimgray' starttime='50' endtime='10000'>
+			<shading x1='155' y1='500' color1='dimgray' x2='155' y2='630' color2='white' cyclic='False'></shading>
+		</shape>
+		<shape type='rectangle' xstart='940' ystart='5' width='310' height='630' fillcolor='dimgray' starttime='100' endtime='10000'>
+		</shape>
+		<audio urlname='resources/slide2/audio/audio1.wav' starttime='10' loop='false'></audio>
+		<image urlname='https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/800px-Rosetta_Stone.JPG' xstart='80' ystart='0' width='20' height='32' starttime='1000' endtime='10000'></image>
+		<image urlname='https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/RosettaStoneAsPartOfOriginalStele_revised.svg/800px-RosettaStoneAsPartOfOriginalStele_revised.svg.png' xstart='70' ystart='32' width='20' height='68' starttime='1000' endtime='20000'></image>
+		<video urlname='resources/slide2/video/Sun.mp4' starttime='1000' loop='false' xstart='70' ystart='80'></video>
+		<model urlname='resources/slide2/models/alien.stl' xstart='0' ystart='0' width='40' height='80'></model>
+	</slide>
+	<slide id='Big Lion' duration='6000'>
+		<text font='arial' fontsize='15' fontcolor='black' xpos='70' ypos='0' starttime='100' endtime='10000'>
+The jaguar (Panthera onca) is a large felid species 
+and the only extant member of the genus Panthera 
+native to the Americas. The jaguar's present range 
+extends from Southwestern United States and Mexico
+in North America, across much of Central America,
+and south to Paraguay and northern Argentina in 
+South America. Though there are single cats now 
+living within the Western United States, the 
+species has largely been extirpated from the 
+United States since the early 20th century. It
+is listed as Near Threatened on the IUCN Red List;
+and its numbers are declining. Threats include 
+loss and fragmentation of habitat.
+
+Overall, the jaguar is the largest native cat 
+species of the New World and the third largest
+in the world. This spotted cat closely resembles
+the leopard, but is usually larger and sturdier.
+It ranges across a variety of forested and open
+terrains, but its preferred habitat is tropical
+and subtropical moist broadleaf forest, swamps
+and wooded regions. The jaguar enjoys swimming
+and is largely a solitary, opportunistic, 
+stalk-and-ambush predator at the top of the 
+food chain. As a keystone species it plays 
+an important role in stabilizing ecosystems
+and regulating prey populations.
+
+While international trade in jaguars or 
+their body parts is prohibited, the cat 
+is still frequently killed, particularly 
+in conflicts with ranchers and farmers in 
+South America. Although reduced, its range 
+remains large. Given its historical distribution, 
+the jaguar has featured prominently in the 
+mythology of numerous indigenous American 
+cultures, including those of the Maya and Aztec.
+		</text>
+		<line xstart='0' ystart='0' xend='1280' yend='0' linecolor='Black' starttime='0' endtime='100'></line>
+		<line xstart='1280' ystart='0' xend='1280' yend='680' linecolor='Black' starttime='0' endtime='100'></line>
+		<line xstart='1280' ystart='680' xend='0' yend='680' linecolor='Black' starttime='0' endtime='100'></line>
+		<line xstart='0' ystart='680' xend='0' yend='0' linecolor='Black' starttime='0' endtime='100'></line>
+		<line xstart='400' ystart='0' xend='400' yend='680' linecolor='Black' starttime='0' endtime='100'></line>
+		<line xstart='880' ystart='0' xend='880' yend='680' linecolor='Black' starttime='0' endtime='100'></line>
+		<shape type='rectangle' xstart='0' ystart='0' width='400' height='680' fillcolor='Black' starttime='0' endtime='100'>
+			<shading x1='0' y1='0' color1='Black' x2='100' y2='100' color2='Orange' cyclic='True'></shading>
+		</shape>
+		<shape type='oval' xstart='880' ystart='200' width='400' height='200' fillcolor='pink' starttime='0' endtime='100'>
+			<shading x1='0' y1='0' color1='Black' x2='100' y2='100' color2='Blue' cyclic='True'></shading>
+		</shape>
+		<shape type='rectangle' xstart='880' ystart='0' width='400' height='680' fillcolor='pink' starttime='0' endtime='100'>
+		</shape>
+		<shape type='oval' xstart='880' ystart='400' width='400' height='200' fillcolor='blue' starttime='0' endtime='100'>
+		</shape>
+		<audio urlname='resources/slide3/audio/audio1.wav' starttime='10' loop='false'></audio>
+		<image urlname='https://cdn.eso.org/images/screen/eso1907a.jpg' xstart='0' ystart='0' width='30' height='30' starttime='100' endtime='10000'></image>
+		<image urlname='https://cdn.arstechnica.net/wp-content/uploads/2018/07/Rocket-Report-Intro-3-800x450.jpg' xstart='100' ystart='100' width='40' height='40' starttime='100' endtime='10000'></image>
+		<video urlname='resources/slide3/video/sun.mp4' starttime='1000' loop='false' xstart='40' ystart='20'></video>
+		<model urlname='resources/slide3/models/panter.stl' xstart='0' ystart='0' width='40' height='80'></model>
+	</slide>
+	<slide id='Mickey Mouse' duration='8000'>
+		<text font='arial' fontsize='15' fontcolor='black' xpos='0' ypos='0' starttime='100' endtime='10000'>
+			HELLO THERE, WE ARE OUT HERE VIBIN <b>You</b> are <i>Gorgeous</i>
+			LOL AT THAT THO I LOVE SAUSAGE ROLLS
+		</text>
+		<line xstart='0' ystart='0' xend='1280' yend='0' linecolor='Black' starttime='10' endtime='1000'></line>
+		<line xstart='1280' ystart='0' xend='1280' yend='680' linecolor='Black' starttime='10' endtime='1000'></line>
+		<line xstart='1280' ystart='680' xend='0' yend='680' linecolor='Black' starttime='10' endtime='1000'></line>
+		<line xstart='0' ystart='680' xend='0' yend='0' linecolor='Black' starttime='10' endtime='1000'></line>
+		<line xstart='400' ystart='0' xend='400' yend='680' linecolor='Black' starttime='10' endtime='1000'></line>
+		<line xstart='880' ystart='0' xend='880' yend='680' linecolor='Black' starttime='10' endtime='1000'></line>
+		<shape type='rectangle' xstart='0' ystart='0' width='400' height='680' fillcolor='Black' starttime='0' endtime='1000'>
+			<shading x1='0' y1='0' color1='Black' x2='100' y2='100' color2='Orange' cyclic='True'></shading>
+		</shape>
+		<shape type='oval' xstart='880' ystart='200' width='400' height='200' fillcolor='pink' starttime='0' endtime='1000'>
+			<shading x1='0' y1='0' color1='Black' x2='100' y2='100' color2='Blue' cyclic='True'></shading>
+		</shape>
+		<shape type='rectangle' xstart='880' ystart='0' width='400' height='680' fillcolor='pink' starttime='0' endtime='1000'>
+		</shape>
+		<shape type='oval' xstart='880' ystart='400' width='400' height='200' fillcolor='blue' starttime='0' endtime='1000'>
+		</shape>
+		<audio urlname='resources/slide4/audio/audio1.wav' starttime='10' loop='false'></audio>
+		<image urlname='https://cdn.eso.org/images/screen/eso1907a.jpg' xstart='0' ystart='0' width='30' height='30' starttime='100' endtime='10000'></image>
+		<image urlname='https://cdn.arstechnica.net/wp-content/uploads/2018/07/Rocket-Report-Intro-3-800x450.jpg' xstart='100' ystart='100' width='40' height='40' starttime='100' endtime='10000'></image>
+		<video urlname='https://www.radiantmediaplayer.com/media/bbb-360p.mp4' starttime='1000' loop='false' xstart='0' ystart='0'></video>
+		<model urlname='resources/slide4/models/dino.stl' xstart='400' ystart='0' width='20' height='80'></model>
+	</slide>
+</slideshow>

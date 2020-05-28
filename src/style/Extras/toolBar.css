@@ -1,0 +1,23 @@
+//HotBar style Sheet
+
+.root{
+	-fx-background-color: #3AA9B8;
+}
+
+.button{
+
+}
+
+.text{
+	-fx-font-size: 11pt;
+	-fx-font-family: "arial";
+}
+#toolBarBG{
+	-fx-fill: #3AA9B8;
+}
+
+#title{
+	-fx-font-size: 30pt;
+	-fx-font-family: "arial";
+	-fx-fill: white;
+}

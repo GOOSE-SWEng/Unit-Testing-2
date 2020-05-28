@@ -1,0 +1,24 @@
+//Content screen style Sheet
+
+.root{
+	-fx-background-color: Black;
+}
+
+.button{
+	-fx-font-size: 24pt;
+
+}
+.text{
+	-fx-font-size: 11pt;
+	-fx-font-family: "arial";
+	-fx-font-style: italic;
+    -fx-effect: dropshadow(one-pass-box, black,0,0,0,2);
+    -fx-fill-color: white;
+}
+
+#body{
+	-fx-font-size: 72pt;
+	-fx-font-family: "arial";
+	-fx-font-style: italic;
+    -fx-effect: dropshadow(one-pass-box, black,0,0,0,2);
+}
